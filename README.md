@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════╗
-║                                                       ║
-║         S A W Y E R   B O B K                        ║
-║         Builder · Tinkerer · D1 Vibe Coder            ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
-```
+
 ![Profile Views](https://komarev.com/ghpvc/?username=sawyerbobk563-code&color=00F7FF&style=flat-square&label=profile+views)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=400&color=00F7FF&center=true&vCenter=true&repeat=true&width=620&lines=Building+things+that+shouldn't+exist+yet.;AI+%2B+automation+%2B+clean+UI.;Single-file+apps+that+slap.;D1+vibe+coder+%E2%9A%A1;If+it+can+be+automated%2C+it+will+be.;Runner+by+day%2C+coder+by+night.;Strava+%2B+Garmin+%2B+code+%3D+my+personality.;Shipping+side+projects+faster+than+I+sleep.;Making+the+browser+do+things+it+regrets.;Clean+UI+or+don't+bother.;Always+one+side+project+too+many.;AI+should+do+the+boring+stuff.;Building+in+public%2C+breaking+in+private.;404+sleep+not+found.;One+HTML+file+to+rule+them+all.)](https://git.io/typing-svg)
@@ -21,12 +14,6 @@
 ### `> whoami`
 
 Hey — I'm Sawyer. I build tools the internet didn't know it needed, obsess over clean UI, and think AI should do the boring stuff so humans can do the interesting stuff.
-
-- 🤖 Deep in AI & automation rabbit holes
-- 🎨 Allergic to ugly interfaces
-- 🏃 Runner & cyclist when I'm not at a keyboard
-- 🔥 Shipping side projects faster than I finish them
-- ⚡ D1 vibe coder — no rules, just results
 
 ### Check out my dev bio:   https://notam-bobk.github.io/notam--bio/
 ---
@@ -69,13 +56,3 @@ Hey — I'm Sawyer. I build tools the internet didn't know it needed, obsess ove
 </div>
 
 ---
-
-### `> ping sawyer`
-
-<div align="center">
-
-*Explore the repos. Star what you vibe with. Break something.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=sawyerbobk563-code&color=00F7FF&style=flat-square&label=profile+views)
-
-</div>
