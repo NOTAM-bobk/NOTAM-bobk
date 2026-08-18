@@ -13,4 +13,4 @@ i build fun things for the web.
 
 ## stats
 
-![Sawyer's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOTAM-bobk&show_icons=true&hide_border=true&theme=transparent)
+![Sawyer's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOTAM-bobk&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400)
