@@ -11,6 +11,4 @@ i build fun things for the web.
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## stats
 
-https://github-readme-stats.vercel.app/api?username=NOTAM-bobk&show_icons=true
