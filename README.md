@@ -2,7 +2,7 @@
 
 i make things -> base31.org 
 
-[portfolio](https://sawyer-sch1.vercel.app) · [fund me](https://gogetfunding.com/niko-schultz-fan-club-website/#campaign-updates)
+[portfolio](https://sawyer-sch1.vercel.app) · [fund me](https://fundrazr.com/62nDBa)
 
 ## tech i use
 
