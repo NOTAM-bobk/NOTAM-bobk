@@ -1,6 +1,6 @@
 # hey, i'm sawyer 👋
 
-i make things -> base31.org 
+i make things -> base31.org -> “Math_Games” 
 
 [portfolio](https://sawyer-sch1.vercel.app) · [fund me](https://fundrazr.com/62nDBa)
 
